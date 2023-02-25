@@ -1,0 +1,60 @@
+body {
+    background-color: #ffecb3;
+}
+
+.hyper {
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    color: #4a3310;
+    background-color: #b89d76;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.kitchen,
+.fishpie,
+.pasty,
+.buns {
+ text-align: center;   
+}
+
+.ingredients,
+.method {
+    background-color: #b89d76;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.forthe {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    background-color: #e5c79b;
+    color: #4a3310;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.whatis {
+    background-color: #b89d76;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.about {
+    background-color: #e5c79b;
+    text-align: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
